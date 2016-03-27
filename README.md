@@ -1,2 +1,2 @@
 # testRepo
-testing repository
+Testing Repository
